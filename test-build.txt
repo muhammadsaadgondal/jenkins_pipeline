@@ -1,3 +1,4 @@
 {
-    "agenda":"TEST THE BUILD PROCESS"
+    "agenda":"TEST THE BUILD PROCESS",
+    "test":"2"
 }
