@@ -1,0 +1,3 @@
+{
+    "agenda":"TEST THE BUILD PROCESS"
+}
